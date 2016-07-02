@@ -1,6 +1,6 @@
 {
   "name": "to2d",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "add x, y position to any array",
   "keywords": [
     "position",
